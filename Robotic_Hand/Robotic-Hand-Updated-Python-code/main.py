@@ -1,3 +1,5 @@
+# Author || Sudhang Balisseri
+
 import cvzone
 import cv2
 
