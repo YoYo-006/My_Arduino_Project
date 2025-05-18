@@ -1,3 +1,4 @@
+Author || Sudhang Balisseri
 
 #include <Servo.h>
 #define numOfValsRec 5
